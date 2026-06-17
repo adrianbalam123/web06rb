@@ -1,0 +1,9 @@
+h1 {
+  font-family: "Courier New",Courier,monospace;
+}
+body {
+  background-color: #ffff99;
+}
+a:hover {
+  color: #ff9966;
+}
